@@ -1,0 +1,26 @@
+{
+    "version": "0.0.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/castingcode/tuicast/releases/download/v0.0.2/tuicast_0.0.2_windows_amd64.zip",
+            "bin": [
+                "tuicast_0.0.2_windows_amd64/tuicast-driver.exe",
+                "tuicast_0.0.2_windows_amd64/tuicast-mcp.exe",
+                "tuicast_0.0.2_windows_amd64/reference-tui.exe"
+            ],
+            "hash": "873577ccf5ded13086f125157203331192d973d39479fb2bcd5f41711010e8fa"
+        },
+        "arm64": {
+            "url": "https://github.com/castingcode/tuicast/releases/download/v0.0.2/tuicast_0.0.2_windows_arm64.zip",
+            "bin": [
+                "tuicast_0.0.2_windows_arm64/tuicast-driver.exe",
+                "tuicast_0.0.2_windows_arm64/tuicast-mcp.exe",
+                "tuicast_0.0.2_windows_arm64/reference-tui.exe"
+            ],
+            "hash": "eb4598c80813022bd301783b8a739bea971c35e8dca93cf41b35a466b1730405"
+        }
+    },
+    "homepage": "https://github.com/castingcode/tuicast",
+    "license": "MIT",
+    "description": "Terminal session management and automation for testing text user interfaces."
+}
