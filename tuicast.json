@@ -1,23 +1,23 @@
 {
-    "version": "0.2.0",
+    "version": "0.2.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/castingcode/tuicast/releases/download/v0.2.0/tuicast_0.2.0_windows_amd64.zip",
+            "url": "https://github.com/castingcode/tuicast/releases/download/v0.2.1/tuicast_0.2.1_windows_amd64.zip",
             "bin": [
-                "tuicast_0.2.0_windows_amd64/tuicast-driver.exe",
-                "tuicast_0.2.0_windows_amd64/tuicast-mcp.exe",
-                "tuicast_0.2.0_windows_amd64/reference-tui.exe"
+                "tuicast_0.2.1_windows_amd64/tuicast-driver.exe",
+                "tuicast_0.2.1_windows_amd64/tuicast-mcp.exe",
+                "tuicast_0.2.1_windows_amd64/reference-tui.exe"
             ],
-            "hash": "f2a644021a23803e914e6c3702baadce6d94c6ed5d134730dbebcc38003112f8"
+            "hash": "4d59f3559e75a1075952719fd9fab1f512dcc98aa63eef4d6a0ca685c6e9c632"
         },
         "arm64": {
-            "url": "https://github.com/castingcode/tuicast/releases/download/v0.2.0/tuicast_0.2.0_windows_arm64.zip",
+            "url": "https://github.com/castingcode/tuicast/releases/download/v0.2.1/tuicast_0.2.1_windows_arm64.zip",
             "bin": [
-                "tuicast_0.2.0_windows_arm64/tuicast-driver.exe",
-                "tuicast_0.2.0_windows_arm64/tuicast-mcp.exe",
-                "tuicast_0.2.0_windows_arm64/reference-tui.exe"
+                "tuicast_0.2.1_windows_arm64/tuicast-driver.exe",
+                "tuicast_0.2.1_windows_arm64/tuicast-mcp.exe",
+                "tuicast_0.2.1_windows_arm64/reference-tui.exe"
             ],
-            "hash": "d30999a122ce60d072cd796a0f2af1246bc20fdf1a0f0590ef3b64d0a4561181"
+            "hash": "6a04caf89bfe2ee28e49b341062c63ed4f8374fd6f763f26eee2ca52aa738599"
         }
     },
     "homepage": "https://github.com/castingcode/tuicast",
